@@ -1,0 +1,4 @@
+cd client 
+npm start
+then create new terminal
+npm start

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65bc44f3b6dd2a509e9f8abc"
+  },
+  "name": "testtwo",
+  "password": "12345678",
+  "level": "2",
+  "email": "testtwo@gmail.com",
+  "attendance": "True",
+  "date": "02/02/2024",
+  "mobile": "12345678"
+},
+{
+  "_id": {
+    "$oid": "65bc4991adc977f2783fea81"
+  },
+  "name": "testone",
+  "password": "12345678",
+  "level": "1",
+  "email": "22@gmail.com",
+  "attendance": "True",
+  "date": "02/02/2024",
+  "mobile": "112345678"
+}]
